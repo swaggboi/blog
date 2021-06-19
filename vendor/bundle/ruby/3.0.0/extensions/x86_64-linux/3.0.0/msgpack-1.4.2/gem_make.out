@@ -1,5 +1,5 @@
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.2/ext/msgpack
-/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-19219-lsn6v5.rb extconf.rb
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-198573-ztn7gh.rb extconf.rb
 checking for ruby/st.h... yes
 checking for st.h... no
 checking for rb_str_replace() in ruby.h... yes
@@ -77,6 +77,6 @@ gcc -shared -o msgpack.so buffer.o buffer_class.o extension_value_class.o factor
 
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/msgpack-1.4.2/ext/msgpack
 make DESTDIR\= install
-/usr/bin/mkdir -p . ./.gem.20210619-19219-c8lhr8/msgpack
+/usr/bin/mkdir -p . ./.gem.20210619-198573-gilngh/msgpack
 exit > .sitearchdir.-.msgpack.time
-/usr/bin/install -c -m 0755 msgpack.so ./.gem.20210619-19219-c8lhr8/msgpack
+/usr/bin/install -c -m 0755 msgpack.so ./.gem.20210619-198573-gilngh/msgpack

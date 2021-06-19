@@ -1,5 +1,5 @@
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
-/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-19219-x3hkb9.rb extconf.rb
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-198573-ra7547.rb extconf.rb
 checking for rb_ary_subseq()... yes
 creating Makefile
 
@@ -16,6 +16,6 @@ gcc -shared -o cparse.so cparse.o -L. -L/usr/lib64 -L. -Wl,-z,relro -Wl,--as-nee
 
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
 make DESTDIR\= install
-/usr/bin/mkdir -p . ./.gem.20210619-19219-lpoqnn/racc
+/usr/bin/mkdir -p . ./.gem.20210619-198573-phx55s/racc
 exit > .sitearchdir.-.racc.time
-/usr/bin/install -c -m 0755 cparse.so ./.gem.20210619-19219-lpoqnn/racc
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20210619-198573-phx55s/racc

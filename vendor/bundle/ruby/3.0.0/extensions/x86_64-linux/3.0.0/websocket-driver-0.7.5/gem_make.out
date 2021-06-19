@@ -1,5 +1,5 @@
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-19219-bpc0cj.rb extconf.rb
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-198573-5cbg89.rb extconf.rb
 creating Makefile
 
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
@@ -15,6 +15,6 @@ gcc -shared -o websocket_mask.so websocket_mask.o -L. -L/usr/lib64 -L. -Wl,-z,re
 
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
 make DESTDIR\= install
-/usr/bin/mkdir -p . ./.gem.20210619-19219-cpeuji
+/usr/bin/mkdir -p . ./.gem.20210619-198573-rqvkgh
 exit > .sitearchdir.time
-/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210619-19219-cpeuji
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210619-198573-rqvkgh

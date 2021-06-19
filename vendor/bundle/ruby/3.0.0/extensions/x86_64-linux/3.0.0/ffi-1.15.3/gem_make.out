@@ -1,5 +1,5 @@
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/ffi-1.15.3/ext/ffi_c
-/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-19219-wraiiw.rb extconf.rb
+/usr/bin/ruby -I /usr/share/rubygems -r ./siteconf20210619-198573-oz13kg.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -134,6 +134,6 @@ gcc -shared -o ffi_c.so AbstractMemory.o ArrayType.o Buffer.o Call.o ClosurePool
 
 current directory: /home/daniel/git/blog/vendor/bundle/ruby/3.0.0/gems/ffi-1.15.3/ext/ffi_c
 make DESTDIR\= install
-/usr/bin/mkdir -p . ./.gem.20210619-19219-9inz5g
+/usr/bin/mkdir -p . ./.gem.20210619-198573-zu4be9
 exit > .sitearchdir.time
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20210619-19219-9inz5g
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20210619-198573-zu4be9
